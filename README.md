@@ -1,4 +1,4 @@
-### topgg-vote-receiver-
+### Topgg-vote-receiver
 
 First Create a new webhook in your server and paste it into 
 
@@ -15,3 +15,6 @@ And put your port
 
 ## Link should be http://ip:port/dblwebhook
 ## Same auth as in main.js
+
+
+[Support server](https://discord.gg/6aePAuNzrw)
