@@ -1,0 +1,18 @@
+{
+  "name": "topggvotesystem",
+  "version": "1.0.0",
+  "description": "you can get all votes ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "topgg"
+  ],
+  "author": "Pukhraj#0581",
+  "license": "ISC",
+  "dependencies": {
+    "@top-gg/sdk": "^3.1.3",
+    "express": "^4.17.2"
+  }
+}
