@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "topgg"
+    "topgg",
+    "topggvotesystem"
   ],
   "author": "Pukhraj#0581",
   "license": "ISC",
