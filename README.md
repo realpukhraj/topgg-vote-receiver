@@ -14,11 +14,13 @@ let URL = `https://discord.com/api/webhooks/${id}/${token}`
 
 
 And put your port (Set to 3000 in the code)
+<h3>
+ Link should be http://ip:port/dblwebhook
+ <br>
+ (ip should be external one) 
+ <br>
+ put this in to top.gg (no auth)
+<h3>
 
-## Link should be http://ip:port/dblwebhook
-## (ip should be external one)
-## put this in to top.gg (no auth)
-
-
-###Invalid (pukhraj job)
+## ~~Support~~ (Invalid Server)
 [Support Server]( )
